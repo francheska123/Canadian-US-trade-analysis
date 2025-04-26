@@ -16,4 +16,4 @@ Delivered scenario-based recommendations on tariff retaliation, balancing short-
 - Tableau for visualization - View [Dashboard]( )
 
 ### Powerpoint for Stakeholders
-[embed]https://github.com/francheska123/Canadian-US-trade-analysis/blob/main/Brainstation_DA_Final_Project_Aghna_and_Francheska.pdf[/embed]
+View [Presentation](https://github.com/francheska123/Canadian-US-trade-analysis/blob/main/Stakeholder-Presentation.pdf)
