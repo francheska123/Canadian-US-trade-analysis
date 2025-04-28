@@ -1,4 +1,4 @@
-### Check out the full [SQL Script](https://github.com/francheska123/Canadian-US-trade-analysis/blob/francheska123-patch-4/SQL-import-data/final_project.sql)
+### Take a look at the full [SQL Script](https://github.com/francheska123/Canadian-US-trade-analysis/blob/francheska123-patch-4/SQL-import-data/final_project.sql)
 ### Interested in checking out the cleaned data tables formatted for SQL? 
 
 - [All Trade Balances](https://github.com/francheska123/Canadian-US-trade-analysis/blob/francheska123-patch-4/SQL-import-data/all_trade_balances.csv)
