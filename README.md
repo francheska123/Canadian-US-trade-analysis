@@ -1,4 +1,4 @@
-# Analyzing Canada-US Trade
+# Analyzing Canada-US Trade 🇨🇦-🇺🇸
 
 ### Business Task 
 Should the Canadian government move forward with retaliatory tariffs?
