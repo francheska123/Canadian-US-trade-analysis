@@ -15,5 +15,11 @@ Delivered scenario-based recommendations on tariff retaliation, balancing short-
 - Imported clean data into SQL, created schema, normalized tables, and executed complex joins - View [SQL Scripts](https://github.com/francheska123/Canadian-US-trade-analysis/blob/main/final_project.sql)
 - Tableau for visualization - View [Dashboard](https://public.tableau.com/views/Canada-US-Trade-Case-Study/Sheet5?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Powerpoint for Stakeholders
+### PowerPoint for Stakeholders
 View [Presentation](https://github.com/francheska123/Canadian-US-trade-analysis/blob/main/Stakeholder-Presentation.pdf)
+
+### Recommendations
+- Oil and gas is Canada’s top industry for trade surpluses; steel and aluminum are not in the top 5 for trade surpluses.
+- Tariffs on steel and aluminum may be ineffective, as seen in the 2018-2019 Tariff War.
+- Targeted tariffs on select oil and gas exports could have a greater impact than a blanket tariff.
+- Current Trade friction between Canada and the US is an opportunity to forge new trade partnerships.
