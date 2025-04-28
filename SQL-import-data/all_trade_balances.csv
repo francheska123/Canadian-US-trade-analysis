@@ -1,0 +1,874 @@
+"industry_code";"industry_name";"year";"exports";"imports";"trade_balance"
+11111;"Others";2002;86790.64;63183.43;23607.21
+11111;"Others";2003;86386.71;67010.96;19375.75
+11111;"Others";2004;96376.36;73612.64;22763.72
+11111;"Others";2005;105070.04;80453.87;24616.17
+11111;"Others";2006;112445.37;90097.06;22348.31
+11111;"Others";2007;116087.38;96312.9;19774.48
+11111;"Others";2008;119141.4;102363.48;16777.92
+11111;"Others";2009;89006.54;82977.75;6028.79
+11111;"Others";2010;97679.81;96980.24;699.57
+11111;"Others";2011;109639.18;107590.27;2048.91
+11111;"Others";2012;112435.7;111149.17;1286.53
+11111;"Others";2013;114781.92;111567.92;3214.0
+11111;"Others";2014;119570.39;111807.52;7762.87
+11111;"Others";2015;118547.46;102321.29;16226.17
+11111;"Others";2016;116760.47;97362.66;19397.81
+11111;"Others";2017;119478.7;100780.81;18697.89
+11111;"Others";2018;126236.51;105210.04;21026.47
+11111;"Others";2019;126493.74;102155.25;24338.49
+11111;"Others";2020;117213.4;95107.32;22106.08
+11111;"Others";2021;139522.24;110203.01;29319.23
+11111;"Others";2022;156074.49;123928.13;32146.36
+11111;"Others";2023;160915.73;0.0;160915.73
+11111;"Others";2024;159799.93;0.0;159799.93
+11112;"Oilseed (except soybean) farming";2008;4333.86;0.0;4333.86
+11112;"Oilseed (except soybean) farming";2009;3481.92;0.0;3481.92
+11112;"Oilseed (except soybean) farming";2010;3769.12;0.0;3769.12
+11112;"Oilseed (except soybean) farming";2011;5036.91;0.0;5036.91
+11112;"Oilseed (except soybean) farming";2012;5632.71;0.0;5632.71
+11112;"Oilseed (except soybean) farming";2013;4761.57;0.0;4761.57
+11112;"Oilseed (except soybean) farming";2014;5314.14;0.0;5314.14
+11112;"Oilseed (except soybean) farming";2015;4431.87;0.0;4431.87
+11112;"Oilseed (except soybean) farming";2016;4788.21;0.0;4788.21
+11112;"Oilseed (except soybean) farming";2017;5431.53;0.0;5431.53
+11112;"Oilseed (except soybean) farming";2018;4897.29;0.0;4897.29
+11112;"Oilseed (except soybean) farming";2019;3594.13;0.0;3594.13
+11112;"Oilseed (except soybean) farming";2020;5132.17;0.0;5132.17
+11112;"Oilseed (except soybean) farming";2021;5556.65;0.0;5556.65
+11113;"Dry pea and bean farming";2015;3303.82;0.0;3303.82
+11113;"Dry pea and bean farming";2016;3114.74;0.0;3114.74
+11114;"Wheat farming";2007;4371.71;0.0;4371.71
+11114;"Wheat farming";2008;6557.54;0.0;6557.54
+11114;"Wheat farming";2009;5274.15;0.0;5274.15
+11114;"Wheat farming";2010;4537.19;0.0;4537.19
+11114;"Wheat farming";2011;5744.91;0.0;5744.91
+11114;"Wheat farming";2012;6155.04;0.0;6155.04
+11114;"Wheat farming";2013;6493.56;0.0;6493.56
+11114;"Wheat farming";2014;7203.69;0.0;7203.69
+11114;"Wheat farming";2015;6220.95;0.0;6220.95
+11114;"Wheat farming";2016;4508.26;0.0;4508.26
+11114;"Wheat farming";2017;5092.91;0.0;5092.91
+11114;"Wheat farming";2018;5716.41;0.0;5716.41
+11114;"Wheat farming";2019;5390.98;0.0;5390.98
+11114;"Wheat farming";2020;6305.3;0.0;6305.3
+11114;"Wheat farming";2021;6650.33;0.0;6650.33
+11114;"Wheat farming";2022;7960.18;0.0;7960.18
+21111;"Oil and gas extraction (except oil sands)";2002;2479.99;0.0;2479.99
+21111;"Oil and gas extraction (except oil sands)";2003;2906.13;1452.61;1453.52
+21111;"Oil and gas extraction (except oil sands)";2004;40329.95;2423.34;37906.61
+21111;"Oil and gas extraction (except oil sands)";2005;4199.69;3655.51;544.18
+21111;"Oil and gas extraction (except oil sands)";2006;58310.69;2928.18;55382.51
+21111;"Oil and gas extraction (except oil sands)";2007;65446.24;3932.82;61513.42
+21111;"Oil and gas extraction (except oil sands)";2008;95437.52;6478.42;88959.1
+21111;"Oil and gas extraction (except oil sands)";2009;51762.78;4312.63;47450.15
+21111;"Oil and gas extraction (except oil sands)";2010;65980.28;4795.42;61184.86
+21111;"Oil and gas extraction (except oil sands)";2011;83767.98;5963.18;77804.8
+21111;"Oil and gas extraction (except oil sands)";2012;84040.43;5388.49;78651.94
+21111;"Oil and gas extraction (except oil sands)";2013;90204.15;8675.69;81528.46
+21111;"Oil and gas extraction (except oil sands)";2014;103097.48;15950.58;87146.9
+21111;"Oil and gas extraction (except oil sands)";2015;58280.84;10098.68;48182.16
+21111;"Oil and gas extraction (except oil sands)";2016;46168.76;7163.09;39005.67
+21111;"Oil and gas extraction (except oil sands)";2017;62053.02;9708.6;52344.42
+21111;"Oil and gas extraction (except oil sands)";2018;74820.65;11773.18;63047.47
+21111;"Oil and gas extraction (except oil sands)";2019;74998.1;12788.25;62209.85
+21111;"Oil and gas extraction (except oil sands)";2020;52773.63;7988.2;44785.43
+21111;"Oil and gas extraction (except oil sands)";2021;93101.71;10062.57;83039.14
+21111;"Oil and gas extraction (except oil sands)";2022;140020.65;16046.51;123974.14
+21111;"Oil and gas extraction (except oil sands)";2023;106300.24;12644.79;93655.45
+21111;"Oil and gas extraction (except oil sands)";2024;108432.22;11659.18;96773.04
+21211;"Coal mining";2008;5788.79;0.0;5788.79
+21211;"Coal mining";2009;4353.32;0.0;4353.32
+21211;"Coal mining";2010;5835.01;0.0;5835.01
+21211;"Coal mining";2011;8114.33;0.0;8114.33
+21211;"Coal mining";2012;6344.84;0.0;6344.84
+21211;"Coal mining";2013;5364.53;0.0;5364.53
+21211;"Coal mining";2014;3786.49;0.0;3786.49
+21211;"Coal mining";2016;3362.69;0.0;3362.69
+21211;"Coal mining";2017;5217.55;0.0;5217.55
+21211;"Coal mining";2018;5809.74;0.0;5809.74
+21211;"Coal mining";2019;5344.67;0.0;5344.67
+21211;"Coal mining";2021;6105.09;0.0;6105.09
+21211;"Coal mining";2022;10792.56;0.0;10792.56
+21221;"Iron ore mining";2009;2950.63;0.0;2950.63
+21221;"Iron ore mining";2010;3098.03;0.0;3098.03
+21221;"Iron ore mining";2011;4223.43;0.0;4223.43
+21221;"Iron ore mining";2012;4155.45;0.0;4155.45
+21221;"Iron ore mining";2013;4420.9;0.0;4420.9
+21221;"Iron ore mining";2014;3997.26;0.0;3997.26
+21221;"Iron ore mining";2017;3514.92;0.0;3514.92
+21221;"Iron ore mining";2018;4112.89;0.0;4112.89
+21221;"Iron ore mining";2019;4947.3;0.0;4947.3
+21221;"Iron ore mining";2020;5715.82;0.0;5715.82
+21221;"Iron ore mining";2021;8079.66;0.0;8079.66
+21221;"Iron ore mining";2022;6758.52;0.0;6758.52
+21222;"Gold and silver ore mining";2005;3407.72;0.0;3407.72
+21222;"Gold and silver ore mining";2006;4768.16;0.0;4768.16
+21222;"Gold and silver ore mining";2007;5500.25;0.0;5500.25
+21222;"Gold and silver ore mining";2008;7676.7;0.0;7676.7
+21222;"Gold and silver ore mining";2009;7308.9;0.0;7308.9
+21222;"Gold and silver ore mining";2010;13413.05;0.0;13413.05
+21222;"Gold and silver ore mining";2011;17001.94;0.0;17001.94
+21222;"Gold and silver ore mining";2012;15312.64;0.0;15312.64
+21222;"Gold and silver ore mining";2013;15658.96;0.0;15658.96
+21222;"Gold and silver ore mining";2014;14982.38;0.0;14982.38
+21222;"Gold and silver ore mining";2015;12374.52;0.0;12374.52
+21222;"Gold and silver ore mining";2016;12407.12;0.0;12407.12
+21222;"Gold and silver ore mining";2017;13173.36;0.0;13173.36
+21222;"Gold and silver ore mining";2018;12269.35;0.0;12269.35
+21222;"Gold and silver ore mining";2019;15777.27;0.0;15777.27
+21222;"Gold and silver ore mining";2020;16097.11;0.0;16097.11
+21222;"Gold and silver ore mining";2021;14954.38;0.0;14954.38
+21222;"Gold and silver ore mining";2022;18327.26;0.0;18327.26
+21222;"Gold and silver ore mining";2023;8140.28;0.0;8140.28
+21222;"Gold and silver ore mining";2024;5936.54;0.0;5936.54
+21223;"Copper, nickel, lead and zinc ore mining";2011;3822.47;0.0;3822.47
+21223;"Copper, nickel, lead and zinc ore mining";2014;3672.88;0.0;3672.88
+21223;"Copper, nickel, lead and zinc ore mining";2015;3206.07;0.0;3206.07
+21223;"Copper, nickel, lead and zinc ore mining";2020;3614.74;0.0;3614.74
+21239;"Other non-metallic mineral mining and quarrying";2002;2472.71;0.0;2472.71
+21239;"Other non-metallic mineral mining and quarrying";2003;2563.6;0.0;2563.6
+21239;"Other non-metallic mineral mining and quarrying";2004;3615.96;0.0;3615.96
+21239;"Other non-metallic mineral mining and quarrying";2005;3573.42;0.0;3573.42
+21239;"Other non-metallic mineral mining and quarrying";2006;4110.2;0.0;4110.2
+21239;"Other non-metallic mineral mining and quarrying";2007;5082.03;0.0;5082.03
+21239;"Other non-metallic mineral mining and quarrying";2008;9032.82;0.0;9032.82
+21239;"Other non-metallic mineral mining and quarrying";2009;5278.64;0.0;5278.64
+21239;"Other non-metallic mineral mining and quarrying";2010;7961.48;0.0;7961.48
+21239;"Other non-metallic mineral mining and quarrying";2011;9887.56;0.0;9887.56
+21239;"Other non-metallic mineral mining and quarrying";2012;8716.0;0.0;8716.0
+21239;"Other non-metallic mineral mining and quarrying";2013;8115.68;0.0;8115.68
+21239;"Other non-metallic mineral mining and quarrying";2014;7557.81;0.0;7557.81
+21239;"Other non-metallic mineral mining and quarrying";2015;7680.6;0.0;7680.6
+21239;"Other non-metallic mineral mining and quarrying";2016;5468.64;0.0;5468.64
+21239;"Other non-metallic mineral mining and quarrying";2017;6413.41;0.0;6413.41
+21239;"Other non-metallic mineral mining and quarrying";2018;7705.0;0.0;7705.0
+21239;"Other non-metallic mineral mining and quarrying";2019;7248.88;0.0;7248.88
+21239;"Other non-metallic mineral mining and quarrying";2020;6284.35;0.0;6284.35
+21239;"Other non-metallic mineral mining and quarrying";2021;8162.57;0.0;8162.57
+21239;"Other non-metallic mineral mining and quarrying";2022;15333.01;0.0;15333.01
+21239;"Other non-metallic mineral mining and quarrying";2023;4323.93;0.0;4323.93
+21239;"Other non-metallic mineral mining and quarrying";2024;3690.65;0.0;3690.65
+31122;"Starch and vegetable fat and oil manufacturing";2010;3135.13;0.0;3135.13
+31122;"Starch and vegetable fat and oil manufacturing";2011;4581.93;0.0;4581.93
+31122;"Starch and vegetable fat and oil manufacturing";2012;5184.37;0.0;5184.37
+31122;"Starch and vegetable fat and oil manufacturing";2013;4697.25;0.0;4697.25
+31122;"Starch and vegetable fat and oil manufacturing";2014;4209.11;0.0;4209.11
+31122;"Starch and vegetable fat and oil manufacturing";2015;3892.47;0.0;3892.47
+31122;"Starch and vegetable fat and oil manufacturing";2016;4196.91;0.0;4196.91
+31122;"Starch and vegetable fat and oil manufacturing";2017;4500.88;0.0;4500.88
+31122;"Starch and vegetable fat and oil manufacturing";2018;4852.14;0.0;4852.14
+31122;"Starch and vegetable fat and oil manufacturing";2019;4578.16;0.0;4578.16
+31122;"Starch and vegetable fat and oil manufacturing";2020;4965.7;0.0;4965.7
+31122;"Starch and vegetable fat and oil manufacturing";2021;7010.95;0.0;7010.95
+31122;"Starch and vegetable fat and oil manufacturing";2022;8057.29;0.0;8057.29
+31122;"Starch and vegetable fat and oil manufacturing";2023;7358.47;0.0;7358.47
+31122;"Starch and vegetable fat and oil manufacturing";2024;6330.88;0.0;6330.88
+31161;"Animal slaughtering and processing";2002;4617.61;0.0;4617.61
+31161;"Animal slaughtering and processing";2003;5024.05;0.0;5024.05
+31161;"Animal slaughtering and processing";2004;4159.36;0.0;4159.36
+31161;"Animal slaughtering and processing";2005;6802.88;0.0;6802.88
+31161;"Animal slaughtering and processing";2006;4152.57;0.0;4152.57
+31161;"Animal slaughtering and processing";2007;4251.95;0.0;4251.95
+31161;"Animal slaughtering and processing";2008;4783.2;0.0;4783.2
+31161;"Animal slaughtering and processing";2009;4114.4;0.0;4114.4
+31161;"Animal slaughtering and processing";2010;5009.37;0.0;5009.37
+31161;"Animal slaughtering and processing";2011;5605.78;0.0;5605.78
+31161;"Animal slaughtering and processing";2012;5466.68;2784.07;2682.61
+31161;"Animal slaughtering and processing";2013;5485.71;2813.38;2672.33
+31161;"Animal slaughtering and processing";2014;6217.95;2731.62;3486.33
+31161;"Animal slaughtering and processing";2015;5425.49;2502.46;2923.03
+31161;"Animal slaughtering and processing";2016;5534.07;2287.98;3246.09
+31161;"Animal slaughtering and processing";2017;5871.61;2300.35;3571.26
+31161;"Animal slaughtering and processing";2018;6009.04;2187.23;3821.81
+31161;"Animal slaughtering and processing";2019;6532.24;0.0;6532.24
+31161;"Animal slaughtering and processing";2020;7126.01;2203.95;4922.06
+31161;"Animal slaughtering and processing";2021;8740.72;2495.87;6244.85
+31161;"Animal slaughtering and processing";2022;8704.06;2667.09;6036.97
+31161;"Animal slaughtering and processing";2023;5311.9;0.0;5311.9
+31161;"Animal slaughtering and processing";2024;5091.34;2740.73;2350.61
+31171;"Seafood product preparation and packaging";2002;2134.28;0.0;2134.28
+31171;"Seafood product preparation and packaging";2016;3302.51;0.0;3302.51
+31171;"Seafood product preparation and packaging";2017;3618.85;0.0;3618.85
+31171;"Seafood product preparation and packaging";2019;3684.24;0.0;3684.24
+31171;"Seafood product preparation and packaging";2021;4911.06;0.0;4911.06
+31181;"Bread and bakery product manufacturing";2023;3598.52;0.0;3598.52
+31181;"Bread and bakery product manufacturing";2024;3975.98;0.0;3975.98
+32111;"Sawmills and wood preservation";2002;7487.01;0.0;7487.01
+32111;"Sawmills and wood preservation";2003;6906.06;0.0;6906.06
+32111;"Sawmills and wood preservation";2004;9462.6;0.0;9462.6
+32111;"Sawmills and wood preservation";2005;9272.37;0.0;9272.37
+32111;"Sawmills and wood preservation";2006;8844.81;0.0;8844.81
+32111;"Sawmills and wood preservation";2007;7631.15;0.0;7631.15
+32111;"Sawmills and wood preservation";2008;5679.94;0.0;5679.94
+32111;"Sawmills and wood preservation";2009;3945.95;0.0;3945.95
+32111;"Sawmills and wood preservation";2010;5497.31;0.0;5497.31
+32111;"Sawmills and wood preservation";2011;6064.6;0.0;6064.6
+32111;"Sawmills and wood preservation";2012;6358.45;0.0;6358.45
+32111;"Sawmills and wood preservation";2013;7855.85;0.0;7855.85
+32111;"Sawmills and wood preservation";2014;8260.11;0.0;8260.11
+32111;"Sawmills and wood preservation";2015;7356.71;0.0;7356.71
+32111;"Sawmills and wood preservation";2016;8237.33;0.0;8237.33
+32111;"Sawmills and wood preservation";2017;8725.33;0.0;8725.33
+32111;"Sawmills and wood preservation";2018;8509.45;0.0;8509.45
+32111;"Sawmills and wood preservation";2019;6586.99;0.0;6586.99
+32111;"Sawmills and wood preservation";2020;8031.99;0.0;8031.99
+32111;"Sawmills and wood preservation";2021;13834.31;0.0;13834.31
+32111;"Sawmills and wood preservation";2022;11318.13;0.0;11318.13
+32111;"Sawmills and wood preservation";2023;5927.28;0.0;5927.28
+32111;"Sawmills and wood preservation";2024;5941.32;0.0;5941.32
+32121;"Veneer, plywood and engineered wood product manufacturing";2002;2925.52;0.0;2925.52
+32121;"Veneer, plywood and engineered wood product manufacturing";2003;2880.21;0.0;2880.21
+32121;"Veneer, plywood and engineered wood product manufacturing";2004;5341.44;0.0;5341.44
+32121;"Veneer, plywood and engineered wood product manufacturing";2005;3382.92;0.0;3382.92
+32121;"Veneer, plywood and engineered wood product manufacturing";2006;4312.01;0.0;4312.01
+32121;"Veneer, plywood and engineered wood product manufacturing";2018;3585.15;0.0;3585.15
+32121;"Veneer, plywood and engineered wood product manufacturing";2020;3548.18;0.0;3548.18
+32121;"Veneer, plywood and engineered wood product manufacturing";2021;6396.61;0.0;6396.61
+32121;"Veneer, plywood and engineered wood product manufacturing";2022;5972.34;0.0;5972.34
+32121;"Veneer, plywood and engineered wood product manufacturing";2023;4142.92;0.0;4142.92
+32121;"Veneer, plywood and engineered wood product manufacturing";2024;4344.78;0.0;4344.78
+32211;"Pulp mills";2002;8360.62;0.0;8360.62
+32211;"Pulp mills";2003;8368.5;0.0;8368.5
+32211;"Pulp mills";2004;5539.69;0.0;5539.69
+32211;"Pulp mills";2005;9834.41;0.0;9834.41
+32211;"Pulp mills";2006;5736.04;0.0;5736.04
+32211;"Pulp mills";2007;6621.34;0.0;6621.34
+32211;"Pulp mills";2008;6556.52;0.0;6556.52
+32211;"Pulp mills";2009;4446.43;0.0;4446.43
+32211;"Pulp mills";2010;6813.53;0.0;6813.53
+32211;"Pulp mills";2011;7286.96;0.0;7286.96
+32211;"Pulp mills";2012;6434.91;0.0;6434.91
+32211;"Pulp mills";2013;6551.0;0.0;6551.0
+32211;"Pulp mills";2014;6528.81;0.0;6528.81
+32211;"Pulp mills";2015;6011.42;0.0;6011.42
+32211;"Pulp mills";2016;5445.4;0.0;5445.4
+32211;"Pulp mills";2017;6029.14;0.0;6029.14
+32211;"Pulp mills";2018;7236.19;0.0;7236.19
+32211;"Pulp mills";2019;5824.11;0.0;5824.11
+32211;"Pulp mills";2020;4807.4;0.0;4807.4
+32211;"Pulp mills";2021;5851.36;0.0;5851.36
+32211;"Pulp mills";2022;6539.15;0.0;6539.15
+32212;"Paper mills";2002;3333.34;1538.18;1795.16
+32212;"Paper mills";2003;3235.09;1618.48;1616.61
+32212;"Paper mills";2004;9194.11;1816.6;7377.51
+32212;"Paper mills";2005;4604.34;1906.14;2698.2
+32212;"Paper mills";2006;9690.05;2140.08;7549.97
+32212;"Paper mills";2007;9104.87;2303.42;6801.45
+32212;"Paper mills";2008;9581.41;2466.98;7114.43
+32212;"Paper mills";2009;7055.56;2156.14;4899.42
+32212;"Paper mills";2010;7040.44;2440.88;4599.56
+32212;"Paper mills";2011;7203.07;2444.04;4759.03
+32212;"Paper mills";2012;6081.78;0.0;6081.78
+32212;"Paper mills";2013;6042.34;0.0;6042.34
+32212;"Paper mills";2014;5979.05;0.0;5979.05
+32212;"Paper mills";2015;5098.49;0.0;5098.49
+32212;"Paper mills";2016;4546.2;0.0;4546.2
+32212;"Paper mills";2017;4419.97;0.0;4419.97
+32212;"Paper mills";2018;4953.7;0.0;4953.7
+32212;"Paper mills";2019;4434.63;0.0;4434.63
+32212;"Paper mills";2020;3588.22;0.0;3588.22
+32212;"Paper mills";2022;4867.58;0.0;4867.58
+32212;"Paper mills";2023;3534.19;0.0;3534.19
+32212;"Paper mills";2024;3489.75;0.0;3489.75
+32411;"Petroleum refineries";2002;2877.18;0.0;2877.18
+32411;"Petroleum refineries";2003;3858.0;0.0;3858.0
+32411;"Petroleum refineries";2004;9060.61;0.0;9060.61
+32411;"Petroleum refineries";2005;5186.33;2090.74;3095.59
+32411;"Petroleum refineries";2006;13517.43;2681.39;10836.04
+32411;"Petroleum refineries";2007;15338.12;3575.25;11762.87
+32411;"Petroleum refineries";2008;20823.31;6166.4;14656.91
+32411;"Petroleum refineries";2009;12974.56;3117.08;9857.48
+32411;"Petroleum refineries";2010;17530.1;4877.99;12652.11
+32411;"Petroleum refineries";2011;21340.83;8966.75;12374.08
+32411;"Petroleum refineries";2012;23231.07;9844.67;13386.4
+32411;"Petroleum refineries";2013;21728.7;13193.31;8535.39
+32411;"Petroleum refineries";2014;18516.84;14347.13;4169.71
+32411;"Petroleum refineries";2015;13330.6;9039.4;4291.2
+32411;"Petroleum refineries";2016;9810.73;7697.44;2113.29
+32411;"Petroleum refineries";2017;14170.32;8204.29;5966.03
+32411;"Petroleum refineries";2018;15857.58;11896.76;3960.82
+32411;"Petroleum refineries";2019;15471.23;9889.75;5581.48
+32411;"Petroleum refineries";2020;9758.0;6668.36;3089.64
+32411;"Petroleum refineries";2021;16996.43;10186.86;6809.57
+32411;"Petroleum refineries";2022;24851.5;15277.87;9573.63
+32411;"Petroleum refineries";2023;17271.07;12889.16;4381.91
+32411;"Petroleum refineries";2024;17550.43;11273.54;6276.89
+32518;"Other basic inorganic chemical manufacturing";2006;3310.58;0.0;3310.58
+32518;"Other basic inorganic chemical manufacturing";2007;5231.72;0.0;5231.72
+32518;"Other basic inorganic chemical manufacturing";2008;4045.51;0.0;4045.51
+32518;"Other basic inorganic chemical manufacturing";2009;2871.09;0.0;2871.09
+32518;"Other basic inorganic chemical manufacturing";2010;3555.04;0.0;3555.04
+32518;"Other basic inorganic chemical manufacturing";2011;4803.97;0.0;4803.97
+32518;"Other basic inorganic chemical manufacturing";2012;4011.69;0.0;4011.69
+32518;"Other basic inorganic chemical manufacturing";2013;4078.77;0.0;4078.77
+32518;"Other basic inorganic chemical manufacturing";2015;3265.22;0.0;3265.22
+32518;"Other basic inorganic chemical manufacturing";2024;3412.94;0.0;3412.94
+32519;"Other basic organic chemical manufacturing";2013;3667.26;3710.34;-43.08
+32519;"Other basic organic chemical manufacturing";2014;3830.65;3782.64;48.01
+32519;"Other basic organic chemical manufacturing";2023;3380.36;6250.61;-2870.25
+32521;"Resin and synthetic rubber manufacturing";2002;3643.24;3218.62;424.62
+32521;"Resin and synthetic rubber manufacturing";2003;4121.62;3525.32;596.3
+32521;"Resin and synthetic rubber manufacturing";2004;4712.95;4051.69;661.26
+32521;"Resin and synthetic rubber manufacturing";2005;4720.65;4759.84;-39.19
+32521;"Resin and synthetic rubber manufacturing";2006;6311.96;5107.03;1204.93
+32521;"Resin and synthetic rubber manufacturing";2007;6410.88;5025.43;1385.45
+32521;"Resin and synthetic rubber manufacturing";2008;6655.24;5218.54;1436.7
+32521;"Resin and synthetic rubber manufacturing";2009;4187.92;3791.29;396.63
+32521;"Resin and synthetic rubber manufacturing";2010;5379.58;5110.63;268.95
+32521;"Resin and synthetic rubber manufacturing";2011;6546.75;5846.25;700.5
+32521;"Resin and synthetic rubber manufacturing";2012;6336.54;5888.43;448.11
+32521;"Resin and synthetic rubber manufacturing";2013;6867.69;5776.66;1091.03
+32521;"Resin and synthetic rubber manufacturing";2014;7193.87;6082.52;1111.35
+32521;"Resin and synthetic rubber manufacturing";2015;6367.75;5296.47;1071.28
+32521;"Resin and synthetic rubber manufacturing";2016;5987.2;5080.82;906.38
+32521;"Resin and synthetic rubber manufacturing";2017;5957.45;5547.6;409.85
+32521;"Resin and synthetic rubber manufacturing";2018;6637.05;5901.26;735.79
+32521;"Resin and synthetic rubber manufacturing";2019;5866.45;5243.16;623.29
+32521;"Resin and synthetic rubber manufacturing";2020;5292.5;4675.77;616.73
+32521;"Resin and synthetic rubber manufacturing";2021;8145.32;6874.36;1270.96
+32521;"Resin and synthetic rubber manufacturing";2022;7722.09;7295.63;426.46
+32521;"Resin and synthetic rubber manufacturing";2023;5516.08;5874.15;-358.07
+32521;"Resin and synthetic rubber manufacturing";2024;5705.71;5844.78;-139.07
+32541;"Pharmaceutical and medicine manufacturing";2003;2426.78;3062.31;-635.53
+32541;"Pharmaceutical and medicine manufacturing";2004;3081.77;3253.46;-171.69
+32541;"Pharmaceutical and medicine manufacturing";2005;3580.05;3312.97;267.08
+32541;"Pharmaceutical and medicine manufacturing";2006;4799.18;3762.28;1036.9
+32541;"Pharmaceutical and medicine manufacturing";2007;6328.47;3940.23;2388.24
+32541;"Pharmaceutical and medicine manufacturing";2008;6348.97;3486.64;2862.33
+32541;"Pharmaceutical and medicine manufacturing";2009;6627.76;3871.22;2756.54
+32541;"Pharmaceutical and medicine manufacturing";2010;5979.55;4452.3;1527.25
+32541;"Pharmaceutical and medicine manufacturing";2011;5263.96;4970.15;293.81
+32541;"Pharmaceutical and medicine manufacturing";2012;5551.68;4655.14;896.54
+32541;"Pharmaceutical and medicine manufacturing";2013;5878.87;4375.72;1503.15
+32541;"Pharmaceutical and medicine manufacturing";2014;7516.49;4877.74;2638.75
+32541;"Pharmaceutical and medicine manufacturing";2015;8185.69;5103.45;3082.24
+32541;"Pharmaceutical and medicine manufacturing";2016;8856.2;4761.7;4094.5
+32541;"Pharmaceutical and medicine manufacturing";2017;6823.64;4535.77;2287.87
+32541;"Pharmaceutical and medicine manufacturing";2018;8486.21;4452.21;4034.0
+32541;"Pharmaceutical and medicine manufacturing";2019;9168.38;4373.01;4795.37
+32541;"Pharmaceutical and medicine manufacturing";2020;9182.24;4841.44;4340.8
+32541;"Pharmaceutical and medicine manufacturing";2021;10569.68;8268.65;2301.03
+32541;"Pharmaceutical and medicine manufacturing";2022;11671.42;7038.89;4632.53
+32541;"Pharmaceutical and medicine manufacturing";2023;7302.72;5812.82;1489.9
+32541;"Pharmaceutical and medicine manufacturing";2024;9226.09;6645.34;2580.75
+32619;"Other plastic product manufacturing";2002;5939.87;1511.46;4428.41
+32619;"Other plastic product manufacturing";2003;7670.99;1534.46;6136.53
+32619;"Other plastic product manufacturing";2004;4312.31;1623.12;2689.19
+32619;"Other plastic product manufacturing";2005;12136.22;1818.57;10317.65
+32619;"Other plastic product manufacturing";2006;4784.83;1920.09;2864.74
+32619;"Other plastic product manufacturing";2007;4706.19;2111.15;2595.04
+32619;"Other plastic product manufacturing";2008;3966.45;2285.67;1680.78
+32619;"Other plastic product manufacturing";2009;2799.93;1936.33;863.6
+32619;"Other plastic product manufacturing";2010;3464.93;2311.22;1153.71
+32619;"Other plastic product manufacturing";2012;3835.77;2677.86;1157.91
+32619;"Other plastic product manufacturing";2013;3945.21;2702.66;1242.55
+32619;"Other plastic product manufacturing";2014;4245.97;2779.29;1466.68
+32619;"Other plastic product manufacturing";2015;4302.79;2596.33;1706.46
+32619;"Other plastic product manufacturing";2016;4275.78;2542.47;1733.31
+32619;"Other plastic product manufacturing";2017;4432.4;2607.03;1825.37
+32619;"Other plastic product manufacturing";2018;4694.45;2691.01;2003.44
+32619;"Other plastic product manufacturing";2019;4547.46;2673.69;1873.77
+32619;"Other plastic product manufacturing";2020;4252.77;2581.81;1670.96
+32619;"Other plastic product manufacturing";2021;5216.55;3069.42;2147.13
+32619;"Other plastic product manufacturing";2022;5814.87;3543.03;2271.84
+32619;"Other plastic product manufacturing";2023;5511.9;3340.84;2171.06
+32619;"Other plastic product manufacturing";2024;5560.4;3232.24;2328.16
+33111;"Iron and steel mills and ferro-alloy manufacturing";2002;3353.13;1363.77;1989.36
+33111;"Iron and steel mills and ferro-alloy manufacturing";2003;3669.56;1547.47;2122.09
+33111;"Iron and steel mills and ferro-alloy manufacturing";2004;2982.12;2571.41;410.71
+33111;"Iron and steel mills and ferro-alloy manufacturing";2005;4166.55;3345.77;820.78
+33111;"Iron and steel mills and ferro-alloy manufacturing";2006;4041.03;3605.82;435.21
+33111;"Iron and steel mills and ferro-alloy manufacturing";2007;4555.94;4029.23;526.71
+33111;"Iron and steel mills and ferro-alloy manufacturing";2008;6520.03;4756.48;1763.55
+33111;"Iron and steel mills and ferro-alloy manufacturing";2009;3259.67;2900.27;359.4
+33111;"Iron and steel mills and ferro-alloy manufacturing";2010;5160.45;4421.05;739.4
+33111;"Iron and steel mills and ferro-alloy manufacturing";2011;5435.56;4915.69;519.87
+33111;"Iron and steel mills and ferro-alloy manufacturing";2012;5193.99;6601.52;-1407.53
+33111;"Iron and steel mills and ferro-alloy manufacturing";2013;4700.81;5895.17;-1194.36
+33111;"Iron and steel mills and ferro-alloy manufacturing";2014;5247.6;6152.16;-904.56
+33111;"Iron and steel mills and ferro-alloy manufacturing";2015;4418.51;4525.15;-106.64
+33111;"Iron and steel mills and ferro-alloy manufacturing";2016;4110.59;4120.7;-10.11
+33111;"Iron and steel mills and ferro-alloy manufacturing";2017;4938.01;4807.19;130.82
+33111;"Iron and steel mills and ferro-alloy manufacturing";2018;5224.18;4380.81;843.37
+33111;"Iron and steel mills and ferro-alloy manufacturing";2019;4471.51;3394.79;1076.72
+33111;"Iron and steel mills and ferro-alloy manufacturing";2020;3914.85;2934.24;980.61
+33111;"Iron and steel mills and ferro-alloy manufacturing";2021;7820.78;4639.46;3181.32
+33111;"Iron and steel mills and ferro-alloy manufacturing";2022;8524.69;5550.18;2974.51
+33111;"Iron and steel mills and ferro-alloy manufacturing";2023;6660.26;5343.24;1317.02
+33111;"Iron and steel mills and ferro-alloy manufacturing";2024;6203.42;4666.56;1536.86
+33131;"Alumina and aluminum production and processing";2002;4459.67;1753.43;2706.24
+33131;"Alumina and aluminum production and processing";2003;4907.63;1733.91;3173.72
+33131;"Alumina and aluminum production and processing";2004;5780.64;2010.35;3770.29
+33131;"Alumina and aluminum production and processing";2005;5223.36;2278.49;2944.87
+33131;"Alumina and aluminum production and processing";2006;9320.37;2704.9;6615.47
+33131;"Alumina and aluminum production and processing";2007;9744.54;2659.56;7084.98
+33131;"Alumina and aluminum production and processing";2008;9337.3;2522.71;6814.59
+33131;"Alumina and aluminum production and processing";2009;5522.56;0.0;5522.56
+33131;"Alumina and aluminum production and processing";2010;7545.87;0.0;7545.87
+33131;"Alumina and aluminum production and processing";2011;8418.25;2409.46;6008.79
+33131;"Alumina and aluminum production and processing";2012;7156.04;0.0;7156.04
+33131;"Alumina and aluminum production and processing";2013;7115.98;0.0;7115.98
+33131;"Alumina and aluminum production and processing";2014;7328.51;2277.09;5051.42
+33131;"Alumina and aluminum production and processing";2015;6695.05;2155.89;4539.16
+33131;"Alumina and aluminum production and processing";2016;6553.66;0.0;6553.66
+33131;"Alumina and aluminum production and processing";2017;8065.59;0.0;8065.59
+33131;"Alumina and aluminum production and processing";2018;8223.0;0.0;8223.0
+33131;"Alumina and aluminum production and processing";2019;6672.57;0.0;6672.57
+33131;"Alumina and aluminum production and processing";2020;6795.34;0.0;6795.34
+33131;"Alumina and aluminum production and processing";2021;9964.92;0.0;9964.92
+33131;"Alumina and aluminum production and processing";2022;11619.49;0.0;11619.49
+33131;"Alumina and aluminum production and processing";2023;9494.59;0.0;9494.59
+33131;"Alumina and aluminum production and processing";2024;9662.43;0.0;9662.43
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2002;3297.59;0.0;3297.59
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2003;3625.78;0.0;3625.78
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2004;5707.67;0.0;5707.67
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2005;6298.42;0.0;6298.42
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2006;10181.44;0.0;10181.44
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2007;16054.96;0.0;16054.96
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2008;12390.05;0.0;12390.05
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2009;6671.12;0.0;6671.12
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2010;10328.45;0.0;10328.45
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2011;13848.98;0.0;13848.98
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2012;11232.63;0.0;11232.63
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2013;9951.23;0.0;9951.23
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2014;9936.95;0.0;9936.95
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2015;8939.38;0.0;8939.38
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2016;7752.92;0.0;7752.92
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2017;7791.99;0.0;7791.99
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2018;8460.25;0.0;8460.25
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2019;7928.77;0.0;7928.77
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2020;8043.82;0.0;8043.82
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2021;9755.5;0.0;9755.5
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2022;10668.48;0.0;10668.48
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2023;5097.62;0.0;5097.62
+33141;"Non-ferrous metal (except aluminum) smelting and refining";2024;5024.41;0.0;5024.41
+33324;"Industrial machinery manufacturing";2003;2281.99;1730.16;551.83
+33324;"Industrial machinery manufacturing";2007;3487.86;0.0;3487.86
+33324;"Industrial machinery manufacturing";2008;3584.78;0.0;3584.78
+33324;"Industrial machinery manufacturing";2009;3010.42;0.0;3010.42
+33324;"Industrial machinery manufacturing";2023;3439.36;0.0;3439.36
+33324;"Industrial machinery manufacturing";2024;3322.53;0.0;3322.53
+33331;"Commercial and service industry machinery manufacturing";2019;3585.2;0.0;3585.2
+33361;"Engine, turbine and power transmission equipment manufacturing";2002;3411.91;2483.88;928.03
+33361;"Engine, turbine and power transmission equipment manufacturing";2003;3837.97;2280.33;1557.64
+33361;"Engine, turbine and power transmission equipment manufacturing";2004;3381.53;2735.18;646.35
+33361;"Engine, turbine and power transmission equipment manufacturing";2005;5640.94;3317.66;2323.28
+33361;"Engine, turbine and power transmission equipment manufacturing";2006;4145.9;3744.55;401.35
+33361;"Engine, turbine and power transmission equipment manufacturing";2007;4718.12;2762.59;1955.53
+33361;"Engine, turbine and power transmission equipment manufacturing";2008;5048.1;3019.55;2028.55
+33361;"Engine, turbine and power transmission equipment manufacturing";2009;4015.55;2406.5;1609.05
+33361;"Engine, turbine and power transmission equipment manufacturing";2010;4519.92;2746.39;1773.53
+33361;"Engine, turbine and power transmission equipment manufacturing";2011;4916.98;3092.57;1824.41
+33361;"Engine, turbine and power transmission equipment manufacturing";2012;5087.81;3398.13;1689.68
+33361;"Engine, turbine and power transmission equipment manufacturing";2013;4892.89;3471.81;1421.08
+33361;"Engine, turbine and power transmission equipment manufacturing";2014;5402.0;4453.14;948.86
+33361;"Engine, turbine and power transmission equipment manufacturing";2015;5163.98;4198.95;965.03
+33361;"Engine, turbine and power transmission equipment manufacturing";2016;5106.94;3125.63;1981.31
+33361;"Engine, turbine and power transmission equipment manufacturing";2017;5684.51;3381.21;2303.3
+33361;"Engine, turbine and power transmission equipment manufacturing";2018;6133.25;3589.39;2543.86
+33361;"Engine, turbine and power transmission equipment manufacturing";2019;5875.23;3758.54;2116.69
+33361;"Engine, turbine and power transmission equipment manufacturing";2020;4452.88;2859.65;1593.23
+33361;"Engine, turbine and power transmission equipment manufacturing";2021;4880.0;3243.79;1636.21
+33361;"Engine, turbine and power transmission equipment manufacturing";2022;5470.42;4091.56;1378.86
+33361;"Engine, turbine and power transmission equipment manufacturing";2023;4605.9;4390.62;215.28
+33361;"Engine, turbine and power transmission equipment manufacturing";2024;4597.44;4747.97;-150.53
+33411;"Computer and peripheral equipment manufacturing";2002;3564.0;3785.92;-221.92
+33411;"Computer and peripheral equipment manufacturing";2003;3051.06;3460.28;-409.22
+33411;"Computer and peripheral equipment manufacturing";2004;3254.93;3658.57;-403.64
+33411;"Computer and peripheral equipment manufacturing";2005;3809.57;3967.22;-157.65
+33411;"Computer and peripheral equipment manufacturing";2006;3595.11;3610.24;-15.13
+33411;"Computer and peripheral equipment manufacturing";2007;3848.42;3309.67;538.75
+33411;"Computer and peripheral equipment manufacturing";2008;3768.91;3161.45;607.46
+33421;"Telephone apparatus manufacturing";2002;38930.07;0.0;38930.07
+33421;"Telephone apparatus manufacturing";2003;38473.4;0.0;38473.4
+33421;"Telephone apparatus manufacturing";2004;2708.97;0.0;2708.97
+33421;"Telephone apparatus manufacturing";2005;44607.1;0.0;44607.1
+33421;"Telephone apparatus manufacturing";2006;4262.61;0.0;4262.61
+33422;"Radio and television broadcasting and wireless communications equipment manufacturing";2007;4436.22;0.0;4436.22
+33422;"Radio and television broadcasting and wireless communications equipment manufacturing";2008;3707.23;0.0;3707.23
+33422;"Radio and television broadcasting and wireless communications equipment manufacturing";2009;2881.14;0.0;2881.14
+33441;"Semiconductor and other electronic component manufacturing";2004;3054.61;2495.37;559.24
+33441;"Semiconductor and other electronic component manufacturing";2005;3131.03;2947.92;183.11
+33451;"Navigational, measuring, medical and control instruments manufacturing";2002;23283.3;3398.41;19884.89
+33451;"Navigational, measuring, medical and control instruments manufacturing";2003;33420.82;3611.67;29809.15
+33451;"Navigational, measuring, medical and control instruments manufacturing";2004;2738.1;3885.42;-1147.32
+33451;"Navigational, measuring, medical and control instruments manufacturing";2005;54769.51;3739.89;51029.62
+33451;"Navigational, measuring, medical and control instruments manufacturing";2006;3664.56;3935.99;-271.43
+33451;"Navigational, measuring, medical and control instruments manufacturing";2007;3939.62;4084.6;-144.98
+33451;"Navigational, measuring, medical and control instruments manufacturing";2008;4189.27;4048.05;141.22
+33451;"Navigational, measuring, medical and control instruments manufacturing";2009;3436.95;3456.54;-19.59
+33451;"Navigational, measuring, medical and control instruments manufacturing";2010;3731.92;3850.91;-118.99
+33451;"Navigational, measuring, medical and control instruments manufacturing";2011;4184.0;4425.09;-241.09
+33451;"Navigational, measuring, medical and control instruments manufacturing";2012;4302.67;4750.99;-448.32
+33451;"Navigational, measuring, medical and control instruments manufacturing";2013;4317.13;4478.41;-161.28
+33451;"Navigational, measuring, medical and control instruments manufacturing";2014;4379.51;4004.32;375.19
+33451;"Navigational, measuring, medical and control instruments manufacturing";2015;4483.92;3723.17;760.75
+33451;"Navigational, measuring, medical and control instruments manufacturing";2016;4431.22;3580.84;850.38
+33451;"Navigational, measuring, medical and control instruments manufacturing";2017;4634.01;3558.85;1075.16
+33451;"Navigational, measuring, medical and control instruments manufacturing";2018;4914.47;3516.3;1398.17
+33451;"Navigational, measuring, medical and control instruments manufacturing";2019;4850.39;3522.45;1327.94
+33451;"Navigational, measuring, medical and control instruments manufacturing";2020;4154.96;2899.3;1255.66
+33451;"Navigational, measuring, medical and control instruments manufacturing";2021;4555.56;3195.64;1359.92
+33451;"Navigational, measuring, medical and control instruments manufacturing";2022;5191.99;3856.47;1335.52
+33451;"Navigational, measuring, medical and control instruments manufacturing";2023;3374.85;4108.73;-733.88
+33451;"Navigational, measuring, medical and control instruments manufacturing";2024;3531.32;4235.64;-704.32
+33531;"Electrical equipment manufacturing";2023;3825.96;3771.04;54.92
+33531;"Electrical equipment manufacturing";2024;4669.11;3911.97;757.14
+33611;"Automobile and light-duty motor vehicle manufacturing";2002;2438.4;13451.85;-11013.45
+33611;"Automobile and light-duty motor vehicle manufacturing";2003;2804.74;14660.34;-11855.6
+33611;"Automobile and light-duty motor vehicle manufacturing";2004;43649.85;14663.55;28986.3
+33611;"Automobile and light-duty motor vehicle manufacturing";2006;44037.17;17686.88;26350.29
+33611;"Automobile and light-duty motor vehicle manufacturing";2007;44570.46;19810.13;24760.33
+33611;"Automobile and light-duty motor vehicle manufacturing";2008;33981.92;17149.78;16832.14
+33611;"Automobile and light-duty motor vehicle manufacturing";2009;23391.5;12366.57;11024.93
+33611;"Automobile and light-duty motor vehicle manufacturing";2010;36387.27;16828.33;19558.94
+33611;"Automobile and light-duty motor vehicle manufacturing";2011;39176.59;17737.79;21438.8
+33611;"Automobile and light-duty motor vehicle manufacturing";2012;46235.03;18781.37;27453.66
+33611;"Automobile and light-duty motor vehicle manufacturing";2013;44410.9;20298.5;24112.4
+33611;"Automobile and light-duty motor vehicle manufacturing";2014;43990.61;21745.85;22244.76
+33611;"Automobile and light-duty motor vehicle manufacturing";2015;43472.01;20829.5;22642.51
+33611;"Automobile and light-duty motor vehicle manufacturing";2016;47451.54;21956.1;25495.44
+33611;"Automobile and light-duty motor vehicle manufacturing";2017;45554.23;23467.67;22086.56
+33611;"Automobile and light-duty motor vehicle manufacturing";2018;41502.27;22598.09;18904.18
+33611;"Automobile and light-duty motor vehicle manufacturing";2019;41741.42;23838.05;17903.37
+33611;"Automobile and light-duty motor vehicle manufacturing";2020;30293.02;18449.58;11843.44
+33611;"Automobile and light-duty motor vehicle manufacturing";2021;26258.78;23734.95;2523.83
+33611;"Automobile and light-duty motor vehicle manufacturing";2022;29762.03;28547.28;1214.75
+33611;"Automobile and light-duty motor vehicle manufacturing";2023;38898.41;26668.02;12230.39
+33611;"Automobile and light-duty motor vehicle manufacturing";2024;32495.28;25825.87;6669.41
+33612;"Heavy-duty truck manufacturing";2002;2286.46;1859.5;426.96
+33612;"Heavy-duty truck manufacturing";2003;2303.82;2363.85;-60.03
+33612;"Heavy-duty truck manufacturing";2004;2999.22;3117.99;-118.77
+33612;"Heavy-duty truck manufacturing";2005;3688.77;3877.28;-188.51
+33612;"Heavy-duty truck manufacturing";2006;4937.74;4298.65;639.09
+33612;"Heavy-duty truck manufacturing";2024;3913.15;6532.79;-2619.64
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2004;4191.94;5768.58;-1576.64
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2006;3739.67;6114.11;-2374.44
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2007;3997.72;6776.74;-2779.02
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2010;3385.55;5070.64;-1685.09
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2012;3638.39;5666.02;-2027.63
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2015;3642.79;4690.4;-1047.61
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2016;3619.49;5391.43;-1771.94
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2017;3358.19;5113.61;-1755.42
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2023;3626.72;5196.22;-1569.5
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2024;3143.65;5477.27;-2333.62
+33635;"Motor vehicle transmission and power train parts manufacturing";2002;2185.48;4213.15;-2027.67
+33635;"Motor vehicle transmission and power train parts manufacturing";2003;2301.92;3961.34;-1659.42
+33635;"Motor vehicle transmission and power train parts manufacturing";2005;4122.92;4810.95;-688.03
+33637;"Motor vehicle metal stamping";2002;2467.38;1388.28;1079.1
+33637;"Motor vehicle metal stamping";2004;2882.74;0.0;2882.74
+33637;"Motor vehicle metal stamping";2005;3440.39;0.0;3440.39
+33639;"Other motor vehicle parts manufacturing";2002;2706.23;8348.18;-5641.95
+33639;"Other motor vehicle parts manufacturing";2003;3045.42;8352.88;-5307.46
+33639;"Other motor vehicle parts manufacturing";2004;3229.06;8775.85;-5546.79
+33639;"Other motor vehicle parts manufacturing";2005;3541.1;8782.16;-5241.06
+33639;"Other motor vehicle parts manufacturing";2006;3434.33;8466.55;-5032.22
+33639;"Other motor vehicle parts manufacturing";2007;3175.12;8967.48;-5792.36
+33641;"Aerospace product and parts manufacturing";2002;8298.91;3187.08;5111.83
+33641;"Aerospace product and parts manufacturing";2003;8690.91;3023.45;5667.46
+33641;"Aerospace product and parts manufacturing";2004;8206.62;3362.9;4843.72
+33641;"Aerospace product and parts manufacturing";2005;9058.21;4307.56;4750.65
+33641;"Aerospace product and parts manufacturing";2006;9852.35;4238.14;5614.21
+33641;"Aerospace product and parts manufacturing";2007;11547.24;5735.49;5811.75
+33641;"Aerospace product and parts manufacturing";2008;10936.26;6438.54;4497.72
+33641;"Aerospace product and parts manufacturing";2009;10881.24;4781.59;6099.65
+33641;"Aerospace product and parts manufacturing";2010;10863.05;4408.64;6454.41
+33641;"Aerospace product and parts manufacturing";2011;10905.19;4675.13;6230.06
+33641;"Aerospace product and parts manufacturing";2012;11559.79;4653.78;6906.01
+33641;"Aerospace product and parts manufacturing";2013;11781.64;5233.97;6547.67
+33641;"Aerospace product and parts manufacturing";2014;13993.57;6672.62;7320.95
+33641;"Aerospace product and parts manufacturing";2015;13871.62;7292.02;6579.6
+33641;"Aerospace product and parts manufacturing";2016;11834.09;6273.96;5560.13
+33641;"Aerospace product and parts manufacturing";2017;11799.36;6601.98;5197.38
+33641;"Aerospace product and parts manufacturing";2018;12681.21;7759.55;4921.66
+33641;"Aerospace product and parts manufacturing";2019;13120.98;8066.45;5054.53
+33641;"Aerospace product and parts manufacturing";2020;10916.26;5747.67;5168.59
+33641;"Aerospace product and parts manufacturing";2021;12301.0;5649.73;6651.27
+33641;"Aerospace product and parts manufacturing";2022;11961.78;7668.56;4293.22
+33641;"Aerospace product and parts manufacturing";2023;9474.98;7578.66;1896.32
+33641;"Aerospace product and parts manufacturing";2024;9962.19;7093.66;2868.53
+33991;"Jewellery and silverware manufacturing";2020;3574.72;0.0;3574.72
+33991;"Jewellery and silverware manufacturing";2021;5596.3;0.0;5596.3
+33991;"Jewellery and silverware manufacturing";2022;5230.62;0.0;5230.62
+33991;"Jewellery and silverware manufacturing";2023;3223.95;0.0;3223.95
+41811;"Recyclable metal merchant wholesalers";2011;3923.12;3404.12;519.0
+41811;"Recyclable metal merchant wholesalers";2018;3620.77;0.0;3620.77
+41811;"Recyclable metal merchant wholesalers";2022;4828.13;4074.49;753.64
+32519;"Other basic organic chemical manufacturing";2002;0.0;1871.83;-1871.83
+32519;"Other basic organic chemical manufacturing";2003;0.0;2000.51;-2000.51
+32519;"Other basic organic chemical manufacturing";2004;0.0;2502.37;-2502.37
+32519;"Other basic organic chemical manufacturing";2005;0.0;2869.31;-2869.31
+32519;"Other basic organic chemical manufacturing";2006;0.0;2856.52;-2856.52
+32519;"Other basic organic chemical manufacturing";2007;0.0;3232.48;-3232.48
+32519;"Other basic organic chemical manufacturing";2008;0.0;3200.0;-3200.0
+32519;"Other basic organic chemical manufacturing";2009;0.0;2402.36;-2402.36
+32519;"Other basic organic chemical manufacturing";2010;0.0;2726.54;-2726.54
+32519;"Other basic organic chemical manufacturing";2011;0.0;3290.46;-3290.46
+32519;"Other basic organic chemical manufacturing";2012;0.0;3629.6;-3629.6
+32519;"Other basic organic chemical manufacturing";2015;0.0;3069.83;-3069.83
+32519;"Other basic organic chemical manufacturing";2016;0.0;2827.1;-2827.1
+32519;"Other basic organic chemical manufacturing";2017;0.0;3160.31;-3160.31
+32519;"Other basic organic chemical manufacturing";2018;0.0;3172.49;-3172.49
+32519;"Other basic organic chemical manufacturing";2019;0.0;3014.8;-3014.8
+32519;"Other basic organic chemical manufacturing";2020;0.0;2901.15;-2901.15
+32519;"Other basic organic chemical manufacturing";2021;0.0;4354.22;-4354.22
+32519;"Other basic organic chemical manufacturing";2022;0.0;6206.63;-6206.63
+32519;"Other basic organic chemical manufacturing";2024;0.0;5758.74;-5758.74
+32541;"Pharmaceutical and medicine manufacturing";2002;0.0;2548.74;-2548.74
+32561;"Soap and cleaning compound manufacturing";2009;0.0;1807.2;-1807.2
+32561;"Soap and cleaning compound manufacturing";2016;0.0;2074.51;-2074.51
+32561;"Soap and cleaning compound manufacturing";2017;0.0;2128.78;-2128.78
+32561;"Soap and cleaning compound manufacturing";2018;0.0;2124.65;-2124.65
+32561;"Soap and cleaning compound manufacturing";2020;0.0;2564.36;-2564.36
+32561;"Soap and cleaning compound manufacturing";2021;0.0;2355.86;-2355.86
+32561;"Soap and cleaning compound manufacturing";2022;0.0;2655.54;-2655.54
+32561;"Soap and cleaning compound manufacturing";2023;0.0;2619.06;-2619.06
+32599;"All other chemical product manufacturing";2002;0.0;2097.62;-2097.62
+32599;"All other chemical product manufacturing";2003;0.0;2251.75;-2251.75
+32599;"All other chemical product manufacturing";2004;0.0;2372.14;-2372.14
+32599;"All other chemical product manufacturing";2005;0.0;2586.51;-2586.51
+32599;"All other chemical product manufacturing";2006;0.0;2616.99;-2616.99
+32599;"All other chemical product manufacturing";2007;0.0;2663.61;-2663.61
+32599;"All other chemical product manufacturing";2008;0.0;2588.71;-2588.71
+32599;"All other chemical product manufacturing";2009;0.0;2296.38;-2296.38
+32599;"All other chemical product manufacturing";2010;0.0;2554.95;-2554.95
+32599;"All other chemical product manufacturing";2011;0.0;3173.48;-3173.48
+32599;"All other chemical product manufacturing";2012;0.0;2822.1;-2822.1
+32599;"All other chemical product manufacturing";2013;0.0;2944.43;-2944.43
+32599;"All other chemical product manufacturing";2014;0.0;2791.81;-2791.81
+32599;"All other chemical product manufacturing";2015;0.0;2593.52;-2593.52
+32599;"All other chemical product manufacturing";2016;0.0;2454.81;-2454.81
+32599;"All other chemical product manufacturing";2017;0.0;2503.51;-2503.51
+32599;"All other chemical product manufacturing";2018;0.0;2587.49;-2587.49
+32599;"All other chemical product manufacturing";2019;0.0;2665.7;-2665.7
+32599;"All other chemical product manufacturing";2020;0.0;2417.33;-2417.33
+32599;"All other chemical product manufacturing";2021;0.0;2804.8;-2804.8
+32599;"All other chemical product manufacturing";2022;0.0;3268.97;-3268.97
+32599;"All other chemical product manufacturing";2023;0.0;3302.9;-3302.9
+32599;"All other chemical product manufacturing";2024;0.0;3408.43;-3408.43
+32619;"Other plastic product manufacturing";2011;0.0;2536.07;-2536.07
+33311;"Agricultural implement manufacturing";2008;0.0;2247.86;-2247.86
+33311;"Agricultural implement manufacturing";2009;0.0;2191.58;-2191.58
+33311;"Agricultural implement manufacturing";2010;0.0;2429.78;-2429.78
+33311;"Agricultural implement manufacturing";2011;0.0;2789.28;-2789.28
+33311;"Agricultural implement manufacturing";2012;0.0;3484.67;-3484.67
+33311;"Agricultural implement manufacturing";2013;0.0;3671.12;-3671.12
+33311;"Agricultural implement manufacturing";2014;0.0;3015.33;-3015.33
+33311;"Agricultural implement manufacturing";2015;0.0;2363.82;-2363.82
+33311;"Agricultural implement manufacturing";2016;0.0;2072.72;-2072.72
+33311;"Agricultural implement manufacturing";2017;0.0;2577.43;-2577.43
+33311;"Agricultural implement manufacturing";2018;0.0;2849.25;-2849.25
+33311;"Agricultural implement manufacturing";2019;0.0;2335.96;-2335.96
+33311;"Agricultural implement manufacturing";2020;0.0;2006.97;-2006.97
+33311;"Agricultural implement manufacturing";2021;0.0;2635.02;-2635.02
+33311;"Agricultural implement manufacturing";2022;0.0;3449.73;-3449.73
+33311;"Agricultural implement manufacturing";2023;0.0;3797.99;-3797.99
+33311;"Agricultural implement manufacturing";2024;0.0;3671.38;-3671.38
+33312;"Construction machinery manufacturing";2003;0.0;1399.05;-1399.05
+33312;"Construction machinery manufacturing";2004;0.0;1808.3;-1808.3
+33312;"Construction machinery manufacturing";2005;0.0;2401.75;-2401.75
+33312;"Construction machinery manufacturing";2006;0.0;2990.88;-2990.88
+33312;"Construction machinery manufacturing";2007;0.0;3391.23;-3391.23
+33312;"Construction machinery manufacturing";2008;0.0;3969.85;-3969.85
+33312;"Construction machinery manufacturing";2009;0.0;2221.32;-2221.32
+33312;"Construction machinery manufacturing";2010;0.0;3080.03;-3080.03
+33312;"Construction machinery manufacturing";2011;0.0;4208.74;-4208.74
+33312;"Construction machinery manufacturing";2012;0.0;4356.99;-4356.99
+33312;"Construction machinery manufacturing";2013;0.0;3531.38;-3531.38
+33312;"Construction machinery manufacturing";2014;0.0;3552.01;-3552.01
+33312;"Construction machinery manufacturing";2015;0.0;2807.13;-2807.13
+33312;"Construction machinery manufacturing";2016;0.0;2429.21;-2429.21
+33312;"Construction machinery manufacturing";2017;0.0;3230.31;-3230.31
+33312;"Construction machinery manufacturing";2018;0.0;3564.76;-3564.76
+33312;"Construction machinery manufacturing";2019;0.0;3187.85;-3187.85
+33312;"Construction machinery manufacturing";2020;0.0;2312.96;-2312.96
+33312;"Construction machinery manufacturing";2021;0.0;3016.99;-3016.99
+33312;"Construction machinery manufacturing";2022;0.0;3721.32;-3721.32
+33312;"Construction machinery manufacturing";2023;0.0;4203.03;-4203.03
+33312;"Construction machinery manufacturing";2024;0.0;3685.47;-3685.47
+33324;"Industrial machinery manufacturing";2002;0.0;1603.78;-1603.78
+33324;"Industrial machinery manufacturing";2004;0.0;1546.15;-1546.15
+33324;"Industrial machinery manufacturing";2013;0.0;2388.89;-2388.89
+33324;"Industrial machinery manufacturing";2015;0.0;2257.72;-2257.72
+33324;"Industrial machinery manufacturing";2017;0.0;2021.12;-2021.12
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2002;0.0;2213.34;-2213.34
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2003;0.0;2286.62;-2286.62
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2004;0.0;2416.49;-2416.49
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2005;0.0;2575.12;-2575.12
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2006;0.0;2681.34;-2681.34
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2007;0.0;2676.39;-2676.39
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2008;0.0;2717.37;-2717.37
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2009;0.0;2305.11;-2305.11
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2010;0.0;2646.71;-2646.71
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2011;0.0;2833.13;-2833.13
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2012;0.0;3008.37;-3008.37
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2013;0.0;3044.16;-3044.16
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2014;0.0;3194.52;-3194.52
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2015;0.0;2918.17;-2918.17
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2016;0.0;2839.59;-2839.59
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2017;0.0;2860.77;-2860.77
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2018;0.0;3027.11;-3027.11
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2019;0.0;3116.81;-3116.81
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2020;0.0;2763.4;-2763.4
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2021;0.0;3142.64;-3142.64
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2022;0.0;3783.8;-3783.8
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2023;0.0;3829.56;-3829.56
+33341;"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing";2024;0.0;3922.94;-3922.94
+33392;"Material handling equipment manufacturing";2018;0.0;2249.78;-2249.78
+33392;"Material handling equipment manufacturing";2019;0.0;2275.91;-2275.91
+33392;"Material handling equipment manufacturing";2021;0.0;2287.91;-2287.91
+33392;"Material handling equipment manufacturing";2024;0.0;2761.75;-2761.75
+33399;"All other general-purpose machinery manufacturing";2002;0.0;1279.44;-1279.44
+33411;"Computer and peripheral equipment manufacturing";2009;0.0;2261.7;-2261.7
+33411;"Computer and peripheral equipment manufacturing";2010;0.0;2297.93;-2297.93
+33411;"Computer and peripheral equipment manufacturing";2011;0.0;2664.34;-2664.34
+33411;"Computer and peripheral equipment manufacturing";2012;0.0;2426.46;-2426.46
+33411;"Computer and peripheral equipment manufacturing";2013;0.0;2369.53;-2369.53
+33411;"Computer and peripheral equipment manufacturing";2019;0.0;2216.59;-2216.59
+33411;"Computer and peripheral equipment manufacturing";2020;0.0;2000.2;-2000.2
+33411;"Computer and peripheral equipment manufacturing";2023;0.0;2613.87;-2613.87
+33411;"Computer and peripheral equipment manufacturing";2024;0.0;2857.6;-2857.6
+33441;"Semiconductor and other electronic component manufacturing";2002;0.0;2259.94;-2259.94
+33441;"Semiconductor and other electronic component manufacturing";2003;0.0;1992.0;-1992.0
+33441;"Semiconductor and other electronic component manufacturing";2006;0.0;2156.44;-2156.44
+33441;"Semiconductor and other electronic component manufacturing";2007;0.0;2006.23;-2006.23
+33531;"Electrical equipment manufacturing";2002;0.0;1540.35;-1540.35
+33531;"Electrical equipment manufacturing";2003;0.0;1575.92;-1575.92
+33531;"Electrical equipment manufacturing";2004;0.0;1691.17;-1691.17
+33531;"Electrical equipment manufacturing";2005;0.0;1912.96;-1912.96
+33531;"Electrical equipment manufacturing";2006;0.0;2314.28;-2314.28
+33531;"Electrical equipment manufacturing";2007;0.0;2504.03;-2504.03
+33531;"Electrical equipment manufacturing";2008;0.0;2336.51;-2336.51
+33531;"Electrical equipment manufacturing";2009;0.0;1952.75;-1952.75
+33531;"Electrical equipment manufacturing";2010;0.0;2116.63;-2116.63
+33531;"Electrical equipment manufacturing";2011;0.0;2486.69;-2486.69
+33531;"Electrical equipment manufacturing";2012;0.0;2793.7;-2793.7
+33531;"Electrical equipment manufacturing";2013;0.0;2680.79;-2680.79
+33531;"Electrical equipment manufacturing";2014;0.0;2848.73;-2848.73
+33531;"Electrical equipment manufacturing";2015;0.0;2593.5;-2593.5
+33531;"Electrical equipment manufacturing";2016;0.0;2267.2;-2267.2
+33531;"Electrical equipment manufacturing";2017;0.0;2389.9;-2389.9
+33531;"Electrical equipment manufacturing";2018;0.0;2624.44;-2624.44
+33531;"Electrical equipment manufacturing";2019;0.0;2816.97;-2816.97
+33531;"Electrical equipment manufacturing";2020;0.0;2533.1;-2533.1
+33531;"Electrical equipment manufacturing";2021;0.0;2829.49;-2829.49
+33531;"Electrical equipment manufacturing";2022;0.0;3313.65;-3313.65
+33611;"Automobile and light-duty motor vehicle manufacturing";2005;0.0;16005.03;-16005.03
+33612;"Heavy-duty truck manufacturing";2007;0.0;3562.24;-3562.24
+33612;"Heavy-duty truck manufacturing";2008;0.0;3068.52;-3068.52
+33612;"Heavy-duty truck manufacturing";2009;0.0;2100.83;-2100.83
+33612;"Heavy-duty truck manufacturing";2010;0.0;3082.54;-3082.54
+33612;"Heavy-duty truck manufacturing";2011;0.0;4151.0;-4151.0
+33612;"Heavy-duty truck manufacturing";2012;0.0;4761.56;-4761.56
+33612;"Heavy-duty truck manufacturing";2013;0.0;4542.05;-4542.05
+33612;"Heavy-duty truck manufacturing";2014;0.0;4355.34;-4355.34
+33612;"Heavy-duty truck manufacturing";2015;0.0;4072.67;-4072.67
+33612;"Heavy-duty truck manufacturing";2016;0.0;3464.41;-3464.41
+33612;"Heavy-duty truck manufacturing";2017;0.0;4302.77;-4302.77
+33612;"Heavy-duty truck manufacturing";2018;0.0;5133.13;-5133.13
+33612;"Heavy-duty truck manufacturing";2019;0.0;5242.51;-5242.51
+33612;"Heavy-duty truck manufacturing";2020;0.0;3814.48;-3814.48
+33612;"Heavy-duty truck manufacturing";2021;0.0;4457.85;-4457.85
+33612;"Heavy-duty truck manufacturing";2022;0.0;5408.24;-5408.24
+33612;"Heavy-duty truck manufacturing";2023;0.0;6272.62;-6272.62
+33621;"Motor vehicle body and trailer manufacturing";2005;0.0;1943.76;-1943.76
+33621;"Motor vehicle body and trailer manufacturing";2006;0.0;2517.49;-2517.49
+33621;"Motor vehicle body and trailer manufacturing";2007;0.0;2802.61;-2802.61
+33621;"Motor vehicle body and trailer manufacturing";2008;0.0;2710.53;-2710.53
+33621;"Motor vehicle body and trailer manufacturing";2010;0.0;2441.24;-2441.24
+33621;"Motor vehicle body and trailer manufacturing";2011;0.0;2781.31;-2781.31
+33621;"Motor vehicle body and trailer manufacturing";2012;0.0;3251.12;-3251.12
+33621;"Motor vehicle body and trailer manufacturing";2013;0.0;3470.15;-3470.15
+33621;"Motor vehicle body and trailer manufacturing";2014;0.0;3310.31;-3310.31
+33621;"Motor vehicle body and trailer manufacturing";2015;0.0;2591.42;-2591.42
+33621;"Motor vehicle body and trailer manufacturing";2016;0.0;2312.4;-2312.4
+33621;"Motor vehicle body and trailer manufacturing";2017;0.0;2647.76;-2647.76
+33621;"Motor vehicle body and trailer manufacturing";2018;0.0;3176.78;-3176.78
+33621;"Motor vehicle body and trailer manufacturing";2019;0.0;2696.66;-2696.66
+33621;"Motor vehicle body and trailer manufacturing";2021;0.0;3129.09;-3129.09
+33621;"Motor vehicle body and trailer manufacturing";2022;0.0;4092.86;-4092.86
+33621;"Motor vehicle body and trailer manufacturing";2023;0.0;3056.52;-3056.52
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2002;0.0;5571.65;-5571.65
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2003;0.0;5618.37;-5618.37
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2005;0.0;5880.62;-5880.62
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2008;0.0;5603.24;-5603.24
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2009;0.0;3567.56;-3567.56
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2011;0.0;4741.61;-4741.61
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2013;0.0;5026.62;-5026.62
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2014;0.0;4817.27;-4817.27
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2018;0.0;4496.61;-4496.61
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2019;0.0;4455.44;-4455.44
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2020;0.0;3888.9;-3888.9
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2021;0.0;3614.81;-3614.81
+33631;"Motor vehicle gasoline engine and engine parts manufacturing";2022;0.0;3674.19;-3674.19
+33632;"Motor vehicle electrical and electronic equipment manufacturing";2002;0.0;1549.81;-1549.81
+33633;"Motor vehicle steering and suspension components (except spring) manufacturing";2002;0.0;1917.55;-1917.55
+33633;"Motor vehicle steering and suspension components (except spring) manufacturing";2003;0.0;1950.78;-1950.78
+33633;"Motor vehicle steering and suspension components (except spring) manufacturing";2004;0.0;2133.29;-2133.29
+33633;"Motor vehicle steering and suspension components (except spring) manufacturing";2005;0.0;2041.41;-2041.41
+33633;"Motor vehicle steering and suspension components (except spring) manufacturing";2016;0.0;2064.17;-2064.17
+33635;"Motor vehicle transmission and power train parts manufacturing";2004;0.0;4805.08;-4805.08
+33635;"Motor vehicle transmission and power train parts manufacturing";2006;0.0;4939.3;-4939.3
+33635;"Motor vehicle transmission and power train parts manufacturing";2007;0.0;4777.8;-4777.8
+33635;"Motor vehicle transmission and power train parts manufacturing";2008;0.0;3999.23;-3999.23
+33635;"Motor vehicle transmission and power train parts manufacturing";2009;0.0;2454.58;-2454.58
+33635;"Motor vehicle transmission and power train parts manufacturing";2010;0.0;3484.41;-3484.41
+33635;"Motor vehicle transmission and power train parts manufacturing";2011;0.0;3581.11;-3581.11
+33635;"Motor vehicle transmission and power train parts manufacturing";2012;0.0;3475.0;-3475.0
+33635;"Motor vehicle transmission and power train parts manufacturing";2013;0.0;3748.46;-3748.46
+33635;"Motor vehicle transmission and power train parts manufacturing";2014;0.0;3256.32;-3256.32
+33635;"Motor vehicle transmission and power train parts manufacturing";2015;0.0;2882.51;-2882.51
+33635;"Motor vehicle transmission and power train parts manufacturing";2016;0.0;3001.28;-3001.28
+33635;"Motor vehicle transmission and power train parts manufacturing";2017;0.0;3325.42;-3325.42
+33635;"Motor vehicle transmission and power train parts manufacturing";2018;0.0;3519.96;-3519.96
+33635;"Motor vehicle transmission and power train parts manufacturing";2019;0.0;3375.69;-3375.69
+33635;"Motor vehicle transmission and power train parts manufacturing";2020;0.0;2023.03;-2023.03
+33635;"Motor vehicle transmission and power train parts manufacturing";2022;0.0;2596.16;-2596.16
+33635;"Motor vehicle transmission and power train parts manufacturing";2023;0.0;3320.47;-3320.47
+33635;"Motor vehicle transmission and power train parts manufacturing";2024;0.0;2977.49;-2977.49
+33637;"Motor vehicle metal stamping";2003;0.0;1422.1;-1422.1
+33639;"Other motor vehicle parts manufacturing";2008;0.0;7695.15;-7695.15
+33639;"Other motor vehicle parts manufacturing";2009;0.0;5528.78;-5528.78
+33639;"Other motor vehicle parts manufacturing";2010;0.0;7347.46;-7347.46
+33639;"Other motor vehicle parts manufacturing";2011;0.0;8182.3;-8182.3
+33639;"Other motor vehicle parts manufacturing";2012;0.0;8618.49;-8618.49
+33639;"Other motor vehicle parts manufacturing";2013;0.0;8495.61;-8495.61
+33639;"Other motor vehicle parts manufacturing";2014;0.0;8527.51;-8527.51
+33639;"Other motor vehicle parts manufacturing";2015;0.0;8199.6;-8199.6
+33639;"Other motor vehicle parts manufacturing";2016;0.0;8584.28;-8584.28
+33639;"Other motor vehicle parts manufacturing";2017;0.0;8400.03;-8400.03
+33639;"Other motor vehicle parts manufacturing";2018;0.0;8202.58;-8202.58
+33639;"Other motor vehicle parts manufacturing";2019;0.0;8177.02;-8177.02
+33639;"Other motor vehicle parts manufacturing";2020;0.0;6107.36;-6107.36
+33639;"Other motor vehicle parts manufacturing";2021;0.0;6159.14;-6159.14
+33639;"Other motor vehicle parts manufacturing";2022;0.0;7198.0;-7198.0
+33639;"Other motor vehicle parts manufacturing";2023;0.0;8873.13;-8873.13
+33639;"Other motor vehicle parts manufacturing";2024;0.0;8351.96;-8351.96
+33911;"Medical equipment and supplies manufacturing";2004;0.0;1463.89;-1463.89
+33911;"Medical equipment and supplies manufacturing";2009;0.0;2067.76;-2067.76
+33911;"Medical equipment and supplies manufacturing";2010;0.0;2198.19;-2198.19
+33911;"Medical equipment and supplies manufacturing";2012;0.0;2563.62;-2563.62
+33911;"Medical equipment and supplies manufacturing";2013;0.0;2503.23;-2503.23
+33911;"Medical equipment and supplies manufacturing";2014;0.0;2525.87;-2525.87
+33911;"Medical equipment and supplies manufacturing";2015;0.0;2416.58;-2416.58
+33911;"Medical equipment and supplies manufacturing";2016;0.0;2253.58;-2253.58
+33911;"Medical equipment and supplies manufacturing";2017;0.0;2285.84;-2285.84
+33911;"Medical equipment and supplies manufacturing";2018;0.0;2398.63;-2398.63
+33911;"Medical equipment and supplies manufacturing";2019;0.0;2379.22;-2379.22
+33911;"Medical equipment and supplies manufacturing";2020;0.0;2291.11;-2291.11
+33911;"Medical equipment and supplies manufacturing";2021;0.0;2596.39;-2596.39
+33911;"Medical equipment and supplies manufacturing";2022;0.0;2645.27;-2645.27
+33911;"Medical equipment and supplies manufacturing";2023;0.0;2763.73;-2763.73
+33911;"Medical equipment and supplies manufacturing";2024;0.0;2750.73;-2750.73
+41811;"Recyclable metal merchant wholesalers";2006;0.0;1980.58;-1980.58
+41811;"Recyclable metal merchant wholesalers";2007;0.0;2563.03;-2563.03
+41811;"Recyclable metal merchant wholesalers";2008;0.0;3479.97;-3479.97
+41811;"Recyclable metal merchant wholesalers";2009;0.0;2351.98;-2351.98
+41811;"Recyclable metal merchant wholesalers";2010;0.0;2745.69;-2745.69
+41811;"Recyclable metal merchant wholesalers";2012;0.0;2574.33;-2574.33
+41811;"Recyclable metal merchant wholesalers";2019;0.0;2388.41;-2388.41
+41811;"Recyclable metal merchant wholesalers";2020;0.0;3350.58;-3350.58
+41811;"Recyclable metal merchant wholesalers";2021;0.0;4201.31;-4201.31
+41811;"Recyclable metal merchant wholesalers";2023;0.0;4740.24;-4740.24
+41811;"Recyclable metal merchant wholesalers";2024;0.0;5809.93;-5809.93
